@@ -1,2 +1,2 @@
 # JP100002-Java-Programming
-Doing the project on the basic bank operations only 
+project 1 : Doing the project on the basic bank operations only 

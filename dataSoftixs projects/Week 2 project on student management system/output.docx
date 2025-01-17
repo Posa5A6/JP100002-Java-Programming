@@ -1,0 +1,185 @@
+run:
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 2
+No students found.
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 1
+Enter Student ID: 101
+Enter Student Name: raju
+Enter Student Marks: 98
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 1
+Enter Student ID: 102
+Enter Student Name: ram
+Enter Student Marks: 89
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 1
+Enter Student ID: 103
+Enter Student Name: rani
+Enter Student Marks: 99
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 1
+Enter Student ID: 104
+Enter Student Name: nani
+Enter Student Marks: 97
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 2
+
+--- Student Records ---
+ID: 101, Name: raju, Marks: 98
+ID: 102, Name: ram, Marks: 89
+ID: 103, Name: rani, Marks: 99
+ID: 104, Name: nani, Marks: 97
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 3
+Enter Student ID to update: 101
+Enter new Name: p.raju
+Enter new Marks: 98
+Student details updated successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 2
+
+--- Student Records ---
+ID: 101, Name: p.raju, Marks: 98
+ID: 102, Name: ram, Marks: 89
+ID: 103, Name: rani, Marks: 99
+ID: 104, Name: nani, Marks: 97
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 4
+Enter Student ID to delete: 103
+Student deleted successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 2
+
+--- Student Records ---
+ID: 101, Name: p.raju, Marks: 98
+ID: 102, Name: ram, Marks: 89
+ID: 104, Name: nani, Marks: 97
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 5
+Students sorted by marks in descending order.
+
+--- Student Records ---
+ID: 101, Name: p.raju, Marks: 98
+ID: 104, Name: nani, Marks: 97
+ID: 102, Name: ram, Marks: 89
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 6
+Students sorted by name in alphabetical order.
+
+--- Student Records ---
+ID: 104, Name: nani, Marks: 97
+ID: 101, Name: p.raju, Marks: 98
+ID: 102, Name: ram, Marks: 89
+
+--- Student Management System ---
+1. Add Student
+2. View All Students
+3. Update Student Details
+4. Delete Student
+5. Sort Students by Marks
+6. Sort Students by Name
+7. Exit
+Enter your choice: 7
+Exiting the program...
+BUILD SUCCESSFUL (total time: 2 minutes 27 seconds)

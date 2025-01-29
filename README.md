@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🚀 My Java Projects
 
 Welcome to the repository where I showcase some of my Java-based projects. Below are the details of each project, their features, and how to set them up!

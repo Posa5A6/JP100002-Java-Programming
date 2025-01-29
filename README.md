@@ -79,7 +79,7 @@ The **File Organization System** is designed to help users organize, manage, and
 
 1. Clone the repository using the following command:
    ```bash
-   git clone <repository-url>
+   git clone  < https://github.com/Posa5A6/JP100002-Java-Programming >
    ```
 
 2. Install the required dependencies and set up the environment based on the technologies used in each project.
